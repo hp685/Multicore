@@ -1,0 +1,4 @@
+Multicore
+=========
+
+Sample pthreads program. 
