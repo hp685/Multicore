@@ -1,4 +1,4 @@
 Multicore
 =========
 
-Sample pthreads program. 
+Vector product using pthreads.
